@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hitaansh Maheshwary</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hitaansh1519&label=Profile%20views&color=0e75b6&style=flat" alt="hitaansh1519" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hitaansh1519" alt="hitaansh1519" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **a video uploading website**
 
@@ -16,6 +20,7 @@
 <a href="https://linkedin.com/in/hitaansh maheshwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitaansh maheshwary" height="30" width="40" /></a>
 <a href="https://instagram.com/hitaansh1519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hitaansh1519" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hitaansh1519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hitaansh1519" height="30" width="40" /></a>
+<a href="https://discord.gg/hitaansh1519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hitaansh1519" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,4 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitaansh1519&show_icons=true&locale=en&layout=compact" alt="hitaansh1519" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitaansh1519&show_icons=true&locale=en" alt="hitaansh1519" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitaansh1519&" alt="hitaansh1519" /></p>
 
