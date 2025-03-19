@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a video uploading website**
 
-- 👨‍💻 All of my projects are available at [https://hitaansh1519.github.io/Portfolio/](https://hitaansh-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://hitaansh-portfolio.netlify.app/)
 
 - 💬 Ask me about **Development**
 
